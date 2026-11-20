@@ -56,7 +56,7 @@ Vaccine (Intervention Module): Models immunization efforts using vaccineName, ef
 StatisticsTracker (Data & Output Module): Monitors population metrics throughout the simulation, recording totalInfected, totalRecovered, totalVaccinated, and totalDead. Using recordData() and exportCSV(), it generates the primary expected outputs: real-time population trend graphs and downloadable CSV datasets for further spreadsheet analysis.
 
 # Class Diagram:
-!(CS3SY26_ProjectProposal/photos/Untitled Diagram-2026-11-20T10-06-51.png)
+!([CS3SY26_ProjectProposal/photos/Untitled Diagram-2026-11-20T10-06-51.png)](https://github.com/getschooledon/CS3SY26_ProjectProposal/blob/main/photos/Untitled%20Diagram-2026-11-20T10-06-51.png))
 
 ### Goals:
 
