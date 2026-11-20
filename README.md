@@ -1,17 +1,11 @@
-# CS3SY26_ProjectProposal by Aline Teresa Mendoza from CS Unit of PSHS
-
-
-## Project Proposal Template:
-cvbbbc
-### Project Title or Name of the Application	:
-### Section			   	      :
-### Group Members			    :
-### Date (Proposal Date)  : Nov 5, 2026
-fdfhdfhfshsdhfhhtrthdfh
+### Project Title or Name of the Application	: PatientZero
+### Section			   	      : 9 - Potassium
+### Group Members			    : Garais, Garsuta, Serrano
+### Date (Proposal Date)  : November 20, 2026
 ### Project Description:
 
 **Project Overview:**
-Patient Zero is an interactive epidemiological simulator designed to model the spread of infectious diseases and the impact of vaccination across a population over time. Understanding disease transmission and intervention strategies like herd immunity can be difficult through static charts alone. This application addresses that need by providing a visual, real-time sandbox where users can manipulate key outbreak parameters and observe how viruses propagate, mutate, and respond to public health measures.
+PatientZero is an interactive epidemiological simulator designed to model the spread of infectious diseases and the impact of vaccination across a population over time. Understanding disease transmission and intervention strategies like herd immunity can be difficult through static charts alone. This application addresses that need by providing a visual, real-time sandbox where users can manipulate key outbreak parameters and observe how viruses propagate, mutate, and respond to public health measures.
 
 **Target Demographics**
 The primary target users for this application are high school and introductory college students, educators, and science enthusiasts.
